@@ -1,4 +1,4 @@
-
+ 
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">I'm FullStack Web Develover from Uzbekistan!</h3>
 
@@ -64,8 +64,8 @@
             src="https://github-profile-trophy.vercel.app/?username=JavokhirUmurzakov&theme=matrix&margin-h=15&column=5&margin-w=10" alt="javokhirumurzakov" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JavokhirUmurzakov&show_icons=true&locale=en&layout=compact" alt="javokhirumurzakov" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JavokhirUmurzakov&show_icons=true&locale=en&layout=compact" alt="javokhirumurzakov" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JavokhirUmurzakov&show_icons=true&locale=en" alt="javokhirumurzakov" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JavokhirUmurzakov&" alt="javokhirumurzakov" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JavokhirUmurzakov&" alt="javokhirumurzakov" /></p> -->
