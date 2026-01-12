@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JavokhirUmurzakov&label=Profile%20views&color=0e75b6&style=flat" alt="javokhirumurzakov" /> </p>
 
-- 🌱 I have a experience **Django, DRF, Postgresql, HTML, CSS, JavaScript, docker, ngnix, gunicorn, celery,RabbitMQ,PHP,Laravel**
+- 🌱 I have a experience **Python, Django, DRF, Postgresql, HTML, CSS, JavaScript, Docker,Ngnix, Gunicorn, Celery,RabbitMQ,PHP,Laravel**
 
 - 👨‍💻 All of my projects are available at
 
-- 💬 Ask me about **Python, Django/Flask ,DRF, SQlite, Postgresql, SQL, HTML ,CSS,JavaScript ,RabbitMQ, Celery,Docker, Java/Kotlin,C++,Android Studio,Windows Server,Kali Linux**
+- 💬 Ask me about **Python, Django ,DRF, Postgresql, SQL, HTML ,CSS,JavaScript ,RabbitMQ, Celery,Docker,Windows Server,Kali Linux**
 
 - 📫 How to reach me 
   
@@ -59,10 +59,10 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 
 
-<p align="center"  >
+<!-- <p align="center"  >
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=JavokhirUmurzakov&theme=matrix&margin-h=15&column=5&margin-w=10" alt="javokhirumurzakov" /></a>
-</p>
+</p> -->
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JavokhirUmurzakov&show_icons=true&locale=en&layout=compact" alt="javokhirumurzakov" /></p>
 
