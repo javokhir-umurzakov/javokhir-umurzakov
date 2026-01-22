@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JavokhirUmurzakov&label=Profile%20views&color=0e75b6&style=flat" alt="javokhirumurzakov" /> </p>
 
-- 🌱 I have a experience **Python, Django, DRF, Postgresql, HTML, CSS, JavaScript, Docker,Ngnix, Gunicorn, Celery,RabbitMQ,PHP,Laravel**
+- 🌱 I have a experience **Python, Django, DRF, Postgresql, HTML, CSS, JavaScript, Docker,Ngnix, Gunicorn, Celery,RabbitMQ**
 
 - 👨‍💻 All of my projects are available at
 
-- 💬 Ask me about **Python, Django ,DRF, Postgresql, SQL, HTML ,CSS,JavaScript ,RabbitMQ, Celery,Docker,Windows Server,Kali Linux**
+- 💬 Ask me about **Python, Django ,DRF, Postgresql, SQL, HTML ,CSS,JavaScript ,RabbitMQ, Celery,Docker,Windows Server**
 
 - 📫 How to reach me 
   
